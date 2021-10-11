@@ -1,0 +1,36 @@
+.heading,  .Instruction
+{
+    display: inline;
+}
+.header_div
+{
+    width: 100%;
+}
+.big_image
+{
+    width:100%;
+}
+.heading
+{
+    float: left;
+    border: 3px solid red;
+    background-color: pink;
+}
+.Instruction
+{
+    float: right;
+}
+#h4
+{
+    bottom: 0;
+    background-color: red;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.dotdotimage
+{
+    display: inline-block;
+    width: 45%;
+}
